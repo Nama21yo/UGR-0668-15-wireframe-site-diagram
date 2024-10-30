@@ -1,14 +1,14 @@
-# Personal Portfolio Project
+# Site diagram and Wireframe for Portfolio Website
 
 This repository contains the project files for my personal portfolio website. It includes a **26-page PDF** with a comprehensive **site diagram** and **wireframe**. The wireframe is designed with consideration for various devices and orientations, ensuring a responsive experience across different screens.
 
-## Project Structure
+## Website Structure
 
 ### Site Diagram
 
 The site diagram provides a visual overview of the website’s structure, depicting how different pages are organized and linked.
 
-![site-diagram.jpg](https://drive.google.com/file/d/1aFg0U7p6NbZZJXK-lHzMZtWtq50OWNdz/view?usp=sharing)
+![site-diagram.jpg](https://github.com/user-attachments/assets/cdc5a86e-848b-4662-92a9-e64114a8b777)
 
 ---
 
@@ -24,6 +24,7 @@ The wireframe spans **25 pages** and showcases the layout design for five main p
 
 A video walkthrough of the wireframe is available to illustrate the layout and navigational flow of each page.
 
+https://github.com/user-attachments/assets/19126f86-97b1-4c84-818b-b7aec0566ced
 
 ## Pages Included
 
@@ -47,8 +48,8 @@ Open the project in a browser or a code editor to explore the wireframes and ass
 
 ## Assets
 
-[Site Diagram](https://drive.google.com/file/d/1aFg0U7p6NbZZJXK-lHzMZtWtq50OWNdz/view?usp=sharing "site-diagram.jpg")
-[Wireframe Video](https://www.awesomescreenshot.com/video/33113011?key=b1482299d5691c4c241d97cc0d450ffd "wireframe-walkthrough.mp4")
+- [Site Diagram](https://drive.google.com/file/d/1aFg0U7p6NbZZJXK-lHzMZtWtq50OWNdz/view?usp=sharing "site-diagram.jpg")
+- [Wireframe Video](https://www.awesomescreenshot.com/video/33113011?key=b1482299d5691c4c241d97cc0d450ffd "wireframe-walkthrough.mp4")
 
 ***
 
